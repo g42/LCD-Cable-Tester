@@ -2,7 +2,6 @@
  English: <a title="English" href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg" height="16px"/>
 </div>
 
-Это описание тестера версии 2, описание предыдущей версии 0.3 [находится здесь](/v03/README.md)
 # ТЕСТЕР ШЛЕЙФОВ МАТРИЦ НОУТБУКОВ  
 ![Tester20](./images/lcd20.png)
 ## Описание
@@ -16,12 +15,9 @@
 ___
 __При использовании тестера, материнская плата должна быть откючена от источника питания и батареи!__
 ___
-## Инстукция
-1. [Питание](./docs/v20/POWER-ru.md)  
-    1. [Включение](./docs/v20/POWER-ru.md#Включение)  
-    2. [Аккумулятор](./docs/v20/POWER-ru.md#Аккумулятор)
-2. [Режимы работы](./docs/v20/MODES-ru.md) 
-    1. [eDP](./docs/v20/MODES-ru.md)  
-    2. [LVDS](./docs/v20/MODES-ru.md)  
-    3. [Поиск короткого замыкания](./docs/v20/MODES-ru.md)  
-3. [Разъемы](./docs/v20/CONN-ru.md)  
+
+## Руковдство
+- [Руководство v2](./docs/LCD_CABLE_TESTER_V20_RU.PDF)  
+- [Руководство v0.3](./docs/LCD_CABLE_TESTER_V03_RU.PDF)
+- [User manual  v2 English](./docs/LCD_CABLE_TESTER_V20_EN.PDF)  
+- [User manual  v0.3 English](./docs/LCD_CABLE_TESTER_V03_EN.PDF)  

@@ -2,7 +2,6 @@
  Русский язык: <a title="Русский" href="README-ru.md"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" height="16px"/>
 </div>
 
-This is decription for v.2, for previous version 0.3 [click here](/v03/README.md)
 # LAPTOP LCD CABLE TESTER.  
 ![Tester20](./images/lcd20.png)
 ## Description
@@ -21,11 +20,8 @@ ___
 __When using the tester, the motherboard must be disconnected from the power source, such as AC adapter and/or battery!__
 ___
 ## User manual
-1. [Power](./docs/v20/POWER-en.md)  
-    1. [Turn ON](./docs/v20/POWER-en.md#turn-on)  
-    2. [Battery](./docs/v20/POWER-en.md#battery)
-2. [Cable testing modes](./docs/v20/MODES-en.md) 
-    1. [eDP](./docs/v20/MODES-en.md)  
-    2. [LVDS](./docs/v20/MODES-en.md)  
-    3. [Short Circuit detect](./docs/v20/MODES-en.md)  
-3. [Connectors](./docs/v20/CONN-en.md)  
+
+- [User manual v2 English](./docs/LCD_CABLE_TESTER_V20_EN.PDF)  
+- [User manual v0.3 English](./docs/LCD_CABLE_TESTER_V03_EN.PDF)  
+- [User manual v2 Russian](./docs/LCD_CABLE_TESTER_V20_RU.PDF)  
+- [User manual v0.3 Russian](./docs/LCD_CABLE_TESTER_V03_RU.PDF)
