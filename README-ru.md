@@ -17,7 +17,7 @@ __При использовании тестера, материнская пл�
 ___
 
 ## Руковдство
-- [Руководство v2](./docs/LCD_CABLE_TESTER_V20_RU.PDF)  
-- [Руководство v0.3](./docs/LCD_CABLE_TESTER_V03_RU.PDF)
-- [User manual  v2 English](./docs/LCD_CABLE_TESTER_V20_EN.PDF)  
-- [User manual  v0.3 English](./docs/LCD_CABLE_TESTER_V03_EN.PDF)  
+- [Руководство v2](./docs/LCD_CABLE_TESTER_V20_RU.pdf)  
+- [Руководство v0.3](./docs/LCD_CABLE_TESTER_V03_RU.pdf)
+- [User manual  v2 English](./docs/LCD_CABLE_TESTER_V20_EN.pdf)  
+- [User manual  v0.3 English](./docs/LCD_CABLE_TESTER_V03_EN.pdf)  
