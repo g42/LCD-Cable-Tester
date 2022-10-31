@@ -21,7 +21,7 @@ __When using the tester, the motherboard must be disconnected from the power sou
 ___
 ## User manual
 
-- [User manual v2 English](./docs/LCD_CABLE_TESTER_V20_EN.pdf)  
+- [User manual v2 English](./docs/LCD_CABLE_TESTER_V2_EN.pdf)  
+- [User manual v2 Russian](./docs/LCD_CABLE_TESTER_V2_RU.pdf)  
 - [User manual v0.3 English](./docs/LCD_CABLE_TESTER_V03_EN.pdf)  
-- [User manual v2 Russian](./docs/LCD_CABLE_TESTER_V20_RU.pdf)  
 - [User manual v0.3 Russian](./docs/LCD_CABLE_TESTER_V03_RU.pdf)
